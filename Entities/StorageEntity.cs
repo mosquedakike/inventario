@@ -15,5 +15,9 @@ namespace Entities
         public DateTime LastUpdate { get; set; }
 
         public int PartialQuantity { get; set; }
+
+        public string ProductId { get; set; }
+        public ICollection<ProductEntity> Products { get; set; }
+
     }
 }

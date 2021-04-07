@@ -16,8 +16,14 @@ namespace Entities
 
         [Required]
         public int Quantity { get; set; }
-            
+
         [Required]
         public bool IsInput { get; set; }
+
+        //Relacion con almacenamiento (StorageEntity)
+        public string StorageId { get; set; }
+
+        public StorageEntity Storage { get; set; }
+
     }
 }

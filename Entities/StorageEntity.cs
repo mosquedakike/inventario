@@ -5,7 +5,7 @@ using System.Text;
 
 namespace Entities
 {
-    class StorageEntity
+    public class StorageEntity
     {
         [Key]
         [StringLength(50)]
@@ -16,8 +16,15 @@ namespace Entities
 
         public int PartialQuantity { get; set; }
 
+        //Relacion con productos (ProductEntity)
         public string ProductId { get; set; }
-        public ICollection<ProductEntity> Products { get; set; }
+        public ProductEntity Product { get; set; }
 
+        //Relacion con bodegas (WarehouseEntity)
+        public string WarehouseId { get; set; }
+        public WarehouseEntity Warehouse { get; set; }
+
+        //Relacion con movimientos
+        public ICollection<InputOutputEntity> InputOutputs { get; set; }
     }
 }

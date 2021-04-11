@@ -5,7 +5,7 @@ using System.Text;
 
 namespace Entities
 {
-    class InputOutputEntity
+    public class InputOutputEntity
     {
         [Key]
         [StringLength(50)]

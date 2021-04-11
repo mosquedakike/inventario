@@ -5,7 +5,7 @@ using System.Text;
 
 namespace Entities
 {
-    class CategoryEntity
+    public class CategoryEntity
     {
         [Key]
         [StringLength(50)]
@@ -15,6 +15,7 @@ namespace Entities
         [StringLength(100)]
         public string CategoryName { get; set; }
 
+        //Relacion con productos
         public ICollection<ProductEntity> Products { get; set; }
 
     }

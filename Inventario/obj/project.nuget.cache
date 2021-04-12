@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "l/ezVkkKVTun+eEZaqDgZQUmYFkdr2mY+I9KPAHSdSzF+MX/6DOoCOKYNIDToQH7G8qvDbzScG00uxBfdU+0Bw==",
+  "dgSpecHash": "TYjhXeEe2RQlv5c91HVYkmgnup8iLdKj6nk13MA24GVGFwuOpW0WK4qJNRvjE2wbdau3AuiBLWC5ojyoI9FajA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\enriq\\source\\repos\\Inventario\\Inventario\\Inventario.csproj",
+  "projectFilePath": "C:\\Users\\enriq\\source\\repos\\inventario\\Inventario\\Inventario.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

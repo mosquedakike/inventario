@@ -14,6 +14,9 @@ namespace Entities
         [Required]
         public DateTime LastUpdate { get; set; }
 
+        [Required]
         public int PartialQuantity { get; set; }
+
+
     }
 }

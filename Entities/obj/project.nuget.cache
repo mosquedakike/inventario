@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "h8igO+/iOxM7JpjQyzuzb6quUDbXNYA9/SIlqePZVOzU5oqM56fyRyLq67Km3dEBcOsWFQzxCHkbN/hL2QyRsg==",
+  "dgSpecHash": "bMjgkbBSIJylIycXRquTfEQw4MDE0/AGPolp6dQoAXsidWutYAIZoRcvFfPv0FDcBRvNVDbIl8uH7b8osu8ACg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\enriq\\source\\repos\\Inventario\\Entities\\Entities.csproj",
+  "projectFilePath": "C:\\Users\\enriq\\source\\repos\\inventario\\Entities\\Entities.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

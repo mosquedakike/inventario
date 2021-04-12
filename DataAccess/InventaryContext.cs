@@ -18,7 +18,7 @@ namespace DataAccess
         {
             if (!option.IsConfigured)
             {
-                option.UseSqlServer("Server=DESKTOP-KNH5RLA; Database=InventoryDb; User Id=sa; Password=58838900");
+                option.UseSqlServer("Server=DESKTOP-KNH5RLA; Database=InventoryDb; User Id=sa; Password=2115");
             }
         }
 

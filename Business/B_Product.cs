@@ -17,7 +17,7 @@ namespace Business
             }
         }
 
-        public void CreateProduct(ProductEntity oProduct)
+        public static void CreateProduct(ProductEntity oProduct)
         {
             using (var db = new InventaryContext())
             {
@@ -26,7 +26,7 @@ namespace Business
             } 
         }
 
-        public void UpdateProduct(ProductEntity oProduct)
+        public static void UpdateProduct(ProductEntity oProduct)
         {
             using (var db = new InventaryContext())
             {

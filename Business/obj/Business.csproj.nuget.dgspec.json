@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\enriq\\source\\repos\\inventario\\Business\\Business.csproj": {}
+    "C:\\Users\\enriq\\source\\repos\\Inventario\\Business\\Business.csproj": {}
   },
   "projects": {
-    "C:\\Users\\enriq\\source\\repos\\inventario\\Business\\Business.csproj": {
+    "C:\\Users\\enriq\\source\\repos\\Inventario\\Business\\Business.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\enriq\\source\\repos\\inventario\\Business\\Business.csproj",
+        "projectUniqueName": "C:\\Users\\enriq\\source\\repos\\Inventario\\Business\\Business.csproj",
         "projectName": "Business",
-        "projectPath": "C:\\Users\\enriq\\source\\repos\\inventario\\Business\\Business.csproj",
+        "projectPath": "C:\\Users\\enriq\\source\\repos\\Inventario\\Business\\Business.csproj",
         "packagesPath": "C:\\Users\\enriq\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\enriq\\source\\repos\\inventario\\Business\\obj\\",
+        "outputPath": "C:\\Users\\enriq\\source\\repos\\Inventario\\Business\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -32,11 +32,11 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\Users\\enriq\\source\\repos\\inventario\\DataAccess\\DataAccess.csproj": {
-                "projectPath": "C:\\Users\\enriq\\source\\repos\\inventario\\DataAccess\\DataAccess.csproj"
+              "C:\\Users\\enriq\\source\\repos\\Inventario\\DataAccess\\DataAccess.csproj": {
+                "projectPath": "C:\\Users\\enriq\\source\\repos\\Inventario\\DataAccess\\DataAccess.csproj"
               },
-              "C:\\Users\\enriq\\source\\repos\\inventario\\Entities\\Entities.csproj": {
-                "projectPath": "C:\\Users\\enriq\\source\\repos\\inventario\\Entities\\Entities.csproj"
+              "C:\\Users\\enriq\\source\\repos\\Inventario\\Entities\\Entities.csproj": {
+                "projectPath": "C:\\Users\\enriq\\source\\repos\\Inventario\\Entities\\Entities.csproj"
               }
             }
           }
@@ -69,14 +69,14 @@
         }
       }
     },
-    "C:\\Users\\enriq\\source\\repos\\inventario\\DataAccess\\DataAccess.csproj": {
+    "C:\\Users\\enriq\\source\\repos\\Inventario\\DataAccess\\DataAccess.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\enriq\\source\\repos\\inventario\\DataAccess\\DataAccess.csproj",
+        "projectUniqueName": "C:\\Users\\enriq\\source\\repos\\Inventario\\DataAccess\\DataAccess.csproj",
         "projectName": "DataAccess",
-        "projectPath": "C:\\Users\\enriq\\source\\repos\\inventario\\DataAccess\\DataAccess.csproj",
+        "projectPath": "C:\\Users\\enriq\\source\\repos\\Inventario\\DataAccess\\DataAccess.csproj",
         "packagesPath": "C:\\Users\\enriq\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\enriq\\source\\repos\\inventario\\DataAccess\\obj\\",
+        "outputPath": "C:\\Users\\enriq\\source\\repos\\Inventario\\DataAccess\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -97,8 +97,8 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\Users\\enriq\\source\\repos\\inventario\\Entities\\Entities.csproj": {
-                "projectPath": "C:\\Users\\enriq\\source\\repos\\inventario\\Entities\\Entities.csproj"
+              "C:\\Users\\enriq\\source\\repos\\Inventario\\Entities\\Entities.csproj": {
+                "projectPath": "C:\\Users\\enriq\\source\\repos\\Inventario\\Entities\\Entities.csproj"
               }
             }
           }
@@ -147,14 +147,14 @@
         }
       }
     },
-    "C:\\Users\\enriq\\source\\repos\\inventario\\Entities\\Entities.csproj": {
+    "C:\\Users\\enriq\\source\\repos\\Inventario\\Entities\\Entities.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\enriq\\source\\repos\\inventario\\Entities\\Entities.csproj",
+        "projectUniqueName": "C:\\Users\\enriq\\source\\repos\\Inventario\\Entities\\Entities.csproj",
         "projectName": "Entities",
-        "projectPath": "C:\\Users\\enriq\\source\\repos\\inventario\\Entities\\Entities.csproj",
+        "projectPath": "C:\\Users\\enriq\\source\\repos\\Inventario\\Entities\\Entities.csproj",
         "packagesPath": "C:\\Users\\enriq\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\enriq\\source\\repos\\inventario\\Entities\\obj\\",
+        "outputPath": "C:\\Users\\enriq\\source\\repos\\Inventario\\Entities\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

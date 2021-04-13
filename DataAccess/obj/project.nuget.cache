@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "lyo0SHdCE1dArC42gZAg4zt7GTwV2taydMaRWmG6fMIeTO5zyAWOt2oEck2kf3Xx9fd7qbGixgIjtfqwWKxiCw==",
+  "dgSpecHash": "kHTbSdtVaqEhAiVrzbj2N2lIqx3kXgRopD0NdL4CIoBfGxNQQFBFhhojQmf/xo9XOyTcwqfIG+1muXRS0sp+gg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\enriq\\source\\repos\\Inventario\\DataAccess\\DataAccess.csproj",
+  "projectFilePath": "C:\\Users\\enriq\\source\\repos\\inventario\\DataAccess\\DataAccess.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\enriq\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.0\\microsoft.bcl.asyncinterfaces.1.1.0.nupkg.sha512",
     "C:\\Users\\enriq\\.nuget\\packages\\microsoft.bcl.hashcode\\1.1.0\\microsoft.bcl.hashcode.1.1.0.nupkg.sha512",

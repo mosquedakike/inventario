@@ -4986,11 +4986,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\enriq\\source\\repos\\Inventario\\Inventario\\Inventario.csproj",
+      "projectUniqueName": "C:\\Users\\enriq\\source\\repos\\inventario\\Inventario\\Inventario.csproj",
       "projectName": "Inventario",
-      "projectPath": "C:\\Users\\enriq\\source\\repos\\Inventario\\Inventario\\Inventario.csproj",
+      "projectPath": "C:\\Users\\enriq\\source\\repos\\inventario\\Inventario\\Inventario.csproj",
       "packagesPath": "C:\\Users\\enriq\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\enriq\\source\\repos\\Inventario\\Inventario\\obj\\",
+      "outputPath": "C:\\Users\\enriq\\source\\repos\\inventario\\Inventario\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -5011,11 +5011,11 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "C:\\Users\\enriq\\source\\repos\\Inventario\\Business\\Business.csproj": {
-              "projectPath": "C:\\Users\\enriq\\source\\repos\\Inventario\\Business\\Business.csproj"
+            "C:\\Users\\enriq\\source\\repos\\inventario\\Business\\Business.csproj": {
+              "projectPath": "C:\\Users\\enriq\\source\\repos\\inventario\\Business\\Business.csproj"
             },
-            "C:\\Users\\enriq\\source\\repos\\Inventario\\Entities\\Entities.csproj": {
-              "projectPath": "C:\\Users\\enriq\\source\\repos\\Inventario\\Entities\\Entities.csproj"
+            "C:\\Users\\enriq\\source\\repos\\inventario\\Entities\\Entities.csproj": {
+              "projectPath": "C:\\Users\\enriq\\source\\repos\\inventario\\Entities\\Entities.csproj"
             }
           }
         }
@@ -5050,13 +5050,5 @@
         "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.202\\RuntimeIdentifierGraph.json"
       }
     }
-  },
-  "logs": [
-    {
-      "code": "Undefined",
-      "level": "Warning",
-      "warningLevel": 1,
-      "message": "Problema al leer el archivo de caché C:\\Users\\enriq\\source\\repos\\Inventario\\Inventario\\obj\\project.nuget.cache : Invalid property identifier character: <. Path 'version', line 3, position 0."
-    }
-  ]
+  }
 }

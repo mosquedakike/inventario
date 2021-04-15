@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "7mH7UUfYyAxQHiPmaZss1KxL4XEp/4cbr2sdp5vyIFywgpzX11Xbfm/if2B4joqhLuk+oHZX/xd41OjYTHjsuw==",
+  "dgSpecHash": "OuHll0YRie3Sy/F4WsnPRU4tmsaL/yMBvsql7DxfOWs/5nUry88JLHEoPK1l2RwJjldfjnH+ND4rzniJwqOcFg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\enriq\\source\\repos\\Inventario\\Business\\Business.csproj",
+  "projectFilePath": "C:\\Users\\enriq\\source\\repos\\inventario\\Business\\Business.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\enriq\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.0\\microsoft.bcl.asyncinterfaces.1.1.0.nupkg.sha512",
     "C:\\Users\\enriq\\.nuget\\packages\\microsoft.bcl.hashcode\\1.1.0\\microsoft.bcl.hashcode.1.1.0.nupkg.sha512",
@@ -91,12 +91,5 @@
     "C:\\Users\\enriq\\.nuget\\packages\\system.xml.xmldocument\\4.3.0\\system.xml.xmldocument.4.3.0.nupkg.sha512",
     "C:\\Users\\enriq\\.nuget\\packages\\system.xml.xmlserializer\\4.3.0\\system.xml.xmlserializer.4.3.0.nupkg.sha512"
   ],
-  "logs": [
-    {
-      "code": "Undefined",
-      "level": "Warning",
-      "warningLevel": 1,
-      "message": "Problema al leer el archivo de caché C:\\Users\\enriq\\source\\repos\\Inventario\\Business\\obj\\project.nuget.cache : Invalid property identifier character: <. Path 'version', line 3, position 0."
-    }
-  ]
+  "logs": []
 }

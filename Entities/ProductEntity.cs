@@ -27,7 +27,5 @@ namespace Entities
 
         //Relacion con almacenamiento (StorageEntity)
         public ICollection<StorageEntity> Storages { get; set; }
-
-
     }
 }

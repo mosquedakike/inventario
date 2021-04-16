@@ -17,7 +17,7 @@ namespace Business
             }
         }
 
-        public void CreateInputOutput(InputOutputEntity oInputOutput)
+        public static void CreateInputOutput(InputOutputEntity oInputOutput)
         {
             using (var db = new InventaryContext())
             {
@@ -26,7 +26,7 @@ namespace Business
             }
         }
 
-        public void UpdateInputOutput(InputOutputEntity oInputOutput)
+        public static void UpdateInputOutput(InputOutputEntity oInputOutput)
         {
             using (var db = new InventaryContext())
             {

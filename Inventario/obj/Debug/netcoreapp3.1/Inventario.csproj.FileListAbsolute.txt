@@ -89,3 +89,5 @@ C:\Users\enriq\source\repos\inventario\Inventario\bin\Debug\netcoreapp3.1\Entiti
 C:\Users\enriq\source\repos\inventario\Inventario\bin\Debug\netcoreapp3.1\Business.pdb
 C:\Users\enriq\source\repos\inventario\Inventario\bin\Debug\netcoreapp3.1\Entities.pdb
 C:\Users\enriq\source\repos\inventario\Inventario\bin\Debug\netcoreapp3.1\DataAccess.pdb
+C:\Users\enriq\source\repos\inventario\Inventario\obj\Debug\netcoreapp3.1\RazorDeclaration\Components\Products\CreateProductComponent.razor.g.cs
+C:\Users\enriq\source\repos\inventario\Inventario\obj\Debug\netcoreapp3.1\Razor\Components\Products\CreateProductComponent.razor.g.cs

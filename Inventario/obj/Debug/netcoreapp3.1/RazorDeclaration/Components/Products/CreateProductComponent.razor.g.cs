@@ -118,10 +118,18 @@ using Business;
         }
         #pragma warning restore 1998
 #nullable restore
-#line 22 "C:\Users\enriq\source\repos\inventario\Inventario\Components\Products\CreateProductComponent.razor"
+#line 31 "C:\Users\enriq\source\repos\inventario\Inventario\Components\Products\CreateProductComponent.razor"
        
     //Objeto de tipo ProductEntity
     ProductEntity oProduct = new ProductEntity();
+
+    List<CategoryEntity> categories = new List<CategoryEntity>();
+
+    protected override async Task OnInitializedAsync()
+    {
+        categories = B_Category.CategoryList();
+
+    }
 
     private void SaveProduct()
     {

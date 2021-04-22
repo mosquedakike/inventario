@@ -9,11 +9,11 @@ namespace Business
 {
     public class B_Category
     {
-        public List<CategoryEntity> CategoryList() 
+        public static List<CategoryEntity> CategoryList() 
         {
             using (var db = new InventaryContext())
             {
-                return db.Categories.ToList();
+                 return db.Categories.ToList();
             }
         }
 

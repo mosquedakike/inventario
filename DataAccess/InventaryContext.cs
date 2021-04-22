@@ -27,15 +27,16 @@ namespace DataAccess
             base.OnModelCreating(modelBuilder);
 
             modelBuilder.Entity<CategoryEntity>().HasData(
-                new CategoryEntity { CategoryId="001", CategoryName="Limpieza para el hogar"},
+                new CategoryEntity { CategoryId = "001", CategoryName= "Limpieza para el hogar"},
                 new CategoryEntity { CategoryId = "002", CategoryName = "Salud"},
                 new CategoryEntity { CategoryId = "003", CategoryName = "Video juegos"},
-                new CategoryEntity { CategoryId = "004", CategoryName = "Cuidado personal"}
+                new CategoryEntity { CategoryId = "004", CategoryName = "Cuidado personal"},
+                new CategoryEntity { CategoryId = "005", CategoryName = "Tecnologia"}
                 );
 
             modelBuilder.Entity<WarehouseEntity>().HasData(
-                new WarehouseEntity { WarehouseId=Guid.NewGuid().ToString(), WarehouseName="Bodega Central", WarehouseAddress="Calle 8 con 23"},
-                new WarehouseEntity { WarehouseId = Guid.NewGuid().ToString(), WarehouseName = "Bodega Norte", WarehouseAddress = "San Martin Obispo" }
+                new WarehouseEntity { WarehouseId = Guid.NewGuid().ToString(), WarehouseName = "Bodega Central", WarehouseAddress = "Calle 8 con 23"},
+                new WarehouseEntity { WarehouseId = Guid.NewGuid().ToString(), WarehouseName = "Bodega Norte", WarehouseAddress = "San Martin Obispo"}
                 );
         }
     }

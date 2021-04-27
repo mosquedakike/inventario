@@ -104,7 +104,7 @@ using Inventario.Components.Products;
         }
         #pragma warning restore 1998
 #nullable restore
-#line 28 "C:\Users\enriq\source\repos\inventario\Inventario\Shared\NavMenu.razor"
+#line 33 "C:\Users\enriq\source\repos\inventario\Inventario\Shared\NavMenu.razor"
        
     private bool collapseNavMenu = true;
 

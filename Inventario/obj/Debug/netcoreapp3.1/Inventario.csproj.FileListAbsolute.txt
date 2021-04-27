@@ -93,3 +93,11 @@ C:\Users\enriq\source\repos\inventario\Inventario\bin\Debug\netcoreapp3.1\runtim
 C:\Users\enriq\source\repos\inventario\Inventario\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
 C:\Users\enriq\source\repos\inventario\Inventario\obj\Debug\netcoreapp3.1\RazorDeclaration\Components\Products\ListProductsComponents.razor.g.cs
 C:\Users\enriq\source\repos\inventario\Inventario\obj\Debug\netcoreapp3.1\Razor\Components\Products\ListProductsComponents.razor.g.cs
+C:\Users\enriq\source\repos\inventario\Inventario\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\Products\ListProductPage.razor.g.cs
+C:\Users\enriq\source\repos\inventario\Inventario\obj\Debug\netcoreapp3.1\Razor\Pages\Products\ListProductPage.razor.g.cs
+C:\Users\enriq\source\repos\inventario\Inventario\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\Products\CreateProductPage.razor.g.cs
+C:\Users\enriq\source\repos\inventario\Inventario\obj\Debug\netcoreapp3.1\Razor\Pages\Products\CreateProductPage.razor.g.cs
+C:\Users\enriq\source\repos\inventario\Inventario\obj\Debug\netcoreapp3.1\RazorDeclaration\Components\Products\UpdateProductComponent.razor.g.cs
+C:\Users\enriq\source\repos\inventario\Inventario\obj\Debug\netcoreapp3.1\Razor\Components\Products\UpdateProductComponent.razor.g.cs
+C:\Users\enriq\source\repos\inventario\Inventario\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\Products\UpdateProductPage.razor.g.cs
+C:\Users\enriq\source\repos\inventario\Inventario\obj\Debug\netcoreapp3.1\Razor\Pages\Products\UpdateProductPage.razor.g.cs

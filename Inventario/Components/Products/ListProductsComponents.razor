@@ -14,8 +14,9 @@
 <table class="table table-hover table-bordered">
     <thead>
         <tr>
-            <th>Referencia</th>
-            <th>Nombre producto</th>
+            <th>ID</th>
+            <th>Producto</th>
+            <th>Descripción</th>
             <th>Categoria</th>
             <th></th>
         </tr>
@@ -26,6 +27,7 @@
         <tr>
             <td>@product.ProductId</td>
             <td>@product.ProductName</td>
+            <td>@product.ProductDescription</td>
             <td>@product.CategoryId</td>
             <td><a href="product/update/@product.ProductId">Actualizar</a></td>
         </tr>  

@@ -13,17 +13,18 @@
     <tbody>
         @foreach (var category in categories)
         {
-            <tr>
-                <td>@category.CategoryId</td>
-                <td>@category.CategoryName</td>
-                <td><a href="category/update/@category.CategoryId">Actualizar</a></td>
-            </tr>
+        <tr>
+            <td>@category.CategoryId</td>
+            <td>@category.CategoryName</td>
+            <td><a href="category/update/@category.CategoryId">Actualizar</a></td>
+        </tr>
         }
     </tbody>
 </table>
 
 @code{
 
+    List<ProductEntity> tempCategories = new List<ProductEntity>();
     List<CategoryEntity> categories = new List<CategoryEntity>();
 
     protected override async Task OnInitializedAsync()

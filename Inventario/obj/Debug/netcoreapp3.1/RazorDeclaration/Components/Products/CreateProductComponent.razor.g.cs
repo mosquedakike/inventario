@@ -142,7 +142,6 @@ using Business;
     protected override async Task OnInitializedAsync()
     {
         categories = B_Category.CategoryList();
-
     }
 
     private void SaveProduct()

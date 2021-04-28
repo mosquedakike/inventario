@@ -101,3 +101,17 @@ C:\Users\enriq\source\repos\inventario\Inventario\obj\Debug\netcoreapp3.1\RazorD
 C:\Users\enriq\source\repos\inventario\Inventario\obj\Debug\netcoreapp3.1\Razor\Components\Products\UpdateProductComponent.razor.g.cs
 C:\Users\enriq\source\repos\inventario\Inventario\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\Products\UpdateProductPage.razor.g.cs
 C:\Users\enriq\source\repos\inventario\Inventario\obj\Debug\netcoreapp3.1\Razor\Pages\Products\UpdateProductPage.razor.g.cs
+C:\Users\enriq\source\repos\inventario\Inventario\obj\Debug\netcoreapp3.1\RazorDeclaration\Components\Categories\CreateCategoryComponent.razor.g.cs
+C:\Users\enriq\source\repos\inventario\Inventario\obj\Debug\netcoreapp3.1\Razor\Components\Categories\CreateCategoryComponent.razor.g.cs
+C:\Users\enriq\source\repos\inventario\Inventario\obj\Debug\netcoreapp3.1\RazorDeclaration\Components\Warehouses\CreateWarehouseComponent.razor.g.cs
+C:\Users\enriq\source\repos\inventario\Inventario\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\Categories\CreateCategoryPage.razor.g.cs
+C:\Users\enriq\source\repos\inventario\Inventario\obj\Debug\netcoreapp3.1\Razor\Components\Warehouses\CreateWarehouseComponent.razor.g.cs
+C:\Users\enriq\source\repos\inventario\Inventario\obj\Debug\netcoreapp3.1\Razor\Pages\Categories\CreateCategoryPage.razor.g.cs
+C:\Users\enriq\source\repos\inventario\Inventario\obj\Debug\netcoreapp3.1\RazorDeclaration\Components\Categories\ListCategoryComponent.razor.g.cs
+C:\Users\enriq\source\repos\inventario\Inventario\obj\Debug\netcoreapp3.1\Razor\Components\Categories\ListCategoryComponent.razor.g.cs
+C:\Users\enriq\source\repos\inventario\Inventario\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\Categories\ListCategoryPage.razor.g.cs
+C:\Users\enriq\source\repos\inventario\Inventario\obj\Debug\netcoreapp3.1\Razor\Pages\Categories\ListCategoryPage.razor.g.cs
+C:\Users\enriq\source\repos\inventario\Inventario\obj\Debug\netcoreapp3.1\RazorDeclaration\Components\Categories\UpdateCategoryComponent.razor.g.cs
+C:\Users\enriq\source\repos\inventario\Inventario\obj\Debug\netcoreapp3.1\Razor\Components\Categories\UpdateCategoryComponent.razor.g.cs
+C:\Users\enriq\source\repos\inventario\Inventario\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\Categories\UpdateCategoryPage.razor.g.cs
+C:\Users\enriq\source\repos\inventario\Inventario\obj\Debug\netcoreapp3.1\Razor\Pages\Categories\UpdateCategoryPage.razor.g.cs

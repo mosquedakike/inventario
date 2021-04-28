@@ -96,6 +96,20 @@ using Inventario.Components.Products;
 #line default
 #line hidden
 #nullable disable
+#nullable restore
+#line 13 "C:\Users\enriq\source\repos\inventario\Inventario\_Imports.razor"
+using Inventario.Components.Categories;
+
+#line default
+#line hidden
+#nullable disable
+#nullable restore
+#line 14 "C:\Users\enriq\source\repos\inventario\Inventario\_Imports.razor"
+using Inventario.Components.Warehouses;
+
+#line default
+#line hidden
+#nullable disable
     public partial class NavMenu : Microsoft.AspNetCore.Components.ComponentBase
     {
         #pragma warning disable 1998
@@ -104,7 +118,7 @@ using Inventario.Components.Products;
         }
         #pragma warning restore 1998
 #nullable restore
-#line 33 "C:\Users\enriq\source\repos\inventario\Inventario\Shared\NavMenu.razor"
+#line 45 "C:\Users\enriq\source\repos\inventario\Inventario\Shared\NavMenu.razor"
        
     private bool collapseNavMenu = true;
 

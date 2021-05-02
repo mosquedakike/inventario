@@ -115,3 +115,13 @@ C:\Users\enriq\source\repos\inventario\Inventario\obj\Debug\netcoreapp3.1\RazorD
 C:\Users\enriq\source\repos\inventario\Inventario\obj\Debug\netcoreapp3.1\Razor\Components\Categories\UpdateCategoryComponent.razor.g.cs
 C:\Users\enriq\source\repos\inventario\Inventario\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\Categories\UpdateCategoryPage.razor.g.cs
 C:\Users\enriq\source\repos\inventario\Inventario\obj\Debug\netcoreapp3.1\Razor\Pages\Categories\UpdateCategoryPage.razor.g.cs
+C:\Users\enriq\source\repos\inventario\Inventario\obj\Debug\netcoreapp3.1\RazorDeclaration\Components\Warehouses\ListWarehoseComponent.razor.g.cs
+C:\Users\enriq\source\repos\inventario\Inventario\obj\Debug\netcoreapp3.1\RazorDeclaration\Components\Warehouses\UpdateWarehouseComponent.razor.g.cs
+C:\Users\enriq\source\repos\inventario\Inventario\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\Warehouses\ListWarehousePage.razor.g.cs
+C:\Users\enriq\source\repos\inventario\Inventario\obj\Debug\netcoreapp3.1\Razor\Components\Warehouses\ListWarehoseComponent.razor.g.cs
+C:\Users\enriq\source\repos\inventario\Inventario\obj\Debug\netcoreapp3.1\Razor\Components\Warehouses\UpdateWarehouseComponent.razor.g.cs
+C:\Users\enriq\source\repos\inventario\Inventario\obj\Debug\netcoreapp3.1\Razor\Pages\Warehouses\ListWarehousePage.razor.g.cs
+C:\Users\enriq\source\repos\inventario\Inventario\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\Warehouses\CreateWareousePage.razor.g.cs
+C:\Users\enriq\source\repos\inventario\Inventario\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\Warehouses\UpdateWarehousePage.razor.g.cs
+C:\Users\enriq\source\repos\inventario\Inventario\obj\Debug\netcoreapp3.1\Razor\Pages\Warehouses\CreateWareousePage.razor.g.cs
+C:\Users\enriq\source\repos\inventario\Inventario\obj\Debug\netcoreapp3.1\Razor\Pages\Warehouses\UpdateWarehousePage.razor.g.cs

@@ -9,11 +9,19 @@ namespace Business
 {
     public class B_Warehouse
     {
-        public List<WarehouseEntity> WarehoseList()
+        public static List<WarehouseEntity> WarehoseList()
         {
             using (var db = new InventaryContext())
             {
                 return db.Warehouses.ToList();
+            }
+        }
+
+        public static WarehouseEntity WarehouseById(string id)
+        {
+            using (var db = new InventaryContext())
+            {
+                return db.Warehouses.ToList().LastOrDefault(p => p.WarehouseId == id);
             }
         }
 

@@ -1,5 +1,33 @@
-﻿<h3>CreateWarehouseComponent</h3>
+﻿@using Entities;
+@using Business;
+
+@inject NavigationManager NavManager
+
+<div>
+    <EditForm Model="oWarehouse">
+        <div class="form-group">
+            <label>ID</label>
+            <InputText @bind-Value="oWarehouse.WarehouseId" class="form-control"></InputText>
+        </div>
+        <div class="form-group">
+            <label>Bodega</label>
+            <InputText @bind-Value="oWarehouse.WarehouseName" class="form-control"></InputText>
+        </div>
+        <div class="form-group">
+            <label>Direccion</label>
+            <InputText @bind-Value="oWarehouse.WarehouseAddress" class="form-control"></InputText>
+        </div>
+        <input class="btn btn-primary" type="button" value="Guardar" @onclick="SaveWarehose">
+    </EditForm>
+</div>
 
 @code {
+    WarehouseEntity oWarehouse = new WarehouseEntity();
+
+    private void SaveWarehose()
+    {
+        B_Warehouse.CreateWarehouse(oWarehouse);
+        NavManager.NavigateTo("warehouse/list");
+    }
 
 }

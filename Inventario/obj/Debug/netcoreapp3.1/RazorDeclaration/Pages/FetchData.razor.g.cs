@@ -111,6 +111,13 @@ using Inventario.Components.Warehouses;
 #line hidden
 #nullable disable
 #nullable restore
+#line 15 "C:\Users\enriq\source\repos\inventario\Inventario\_Imports.razor"
+using Inventario.Components.Storages;
+
+#line default
+#line hidden
+#nullable disable
+#nullable restore
 #line 3 "C:\Users\enriq\source\repos\inventario\Inventario\Pages\FetchData.razor"
 using Inventario.Data;
 

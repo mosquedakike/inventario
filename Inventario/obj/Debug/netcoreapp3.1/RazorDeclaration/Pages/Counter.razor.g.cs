@@ -110,6 +110,13 @@ using Inventario.Components.Warehouses;
 #line default
 #line hidden
 #nullable disable
+#nullable restore
+#line 15 "C:\Users\enriq\source\repos\inventario\Inventario\_Imports.razor"
+using Inventario.Components.Storages;
+
+#line default
+#line hidden
+#nullable disable
     [Microsoft.AspNetCore.Components.RouteAttribute("/counter")]
     public partial class Counter : Microsoft.AspNetCore.Components.ComponentBase
     {

@@ -9,7 +9,7 @@ namespace Business
 {
     public class B_Storage
     {
-        public List<StorageEntity> StorageList()
+        public static List<StorageEntity> StorageList()
         {
             using (var db = new InventaryContext())
             {
@@ -23,6 +23,17 @@ namespace Business
             {
                 db.Storages.Add(oStorage);
                 db.SaveChanges();
+            }
+        }
+
+        public static bool IsProductInWarehouse(string idProduct)
+        {
+            using (var db = new InventaryContext())
+            {
+                var product = db.Storages.ToList()
+                    .Where(s => s.ProductId == idProduct);
+
+                return product.Any();
             }
         }
 

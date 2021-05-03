@@ -111,6 +111,13 @@ using Inventario.Components.Warehouses;
 #line hidden
 #nullable disable
 #nullable restore
+#line 15 "C:\Users\enriq\source\repos\inventario\Inventario\_Imports.razor"
+using Inventario.Components.Storages;
+
+#line default
+#line hidden
+#nullable disable
+#nullable restore
 #line 1 "C:\Users\enriq\source\repos\inventario\Inventario\Components\Products\CreateProductComponent.razor"
 using Entities;
 

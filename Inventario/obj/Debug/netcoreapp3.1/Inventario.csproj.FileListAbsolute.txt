@@ -125,3 +125,15 @@ C:\Users\enriq\source\repos\inventario\Inventario\obj\Debug\netcoreapp3.1\RazorD
 C:\Users\enriq\source\repos\inventario\Inventario\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\Warehouses\UpdateWarehousePage.razor.g.cs
 C:\Users\enriq\source\repos\inventario\Inventario\obj\Debug\netcoreapp3.1\Razor\Pages\Warehouses\CreateWareousePage.razor.g.cs
 C:\Users\enriq\source\repos\inventario\Inventario\obj\Debug\netcoreapp3.1\Razor\Pages\Warehouses\UpdateWarehousePage.razor.g.cs
+C:\Users\enriq\source\repos\inventario\Inventario\obj\Debug\netcoreapp3.1\RazorDeclaration\Components\Storages\CreateStoragesComponent.razor.g.cs
+C:\Users\enriq\source\repos\inventario\Inventario\obj\Debug\netcoreapp3.1\RazorDeclaration\Components\Storages\ListStoragesComponent.razor.g.cs
+C:\Users\enriq\source\repos\inventario\Inventario\obj\Debug\netcoreapp3.1\RazorDeclaration\Components\Storages\UpdateStoragesCoponent.razor.g.cs
+C:\Users\enriq\source\repos\inventario\Inventario\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\Storages\CreateStoragesPage.razor.g.cs
+C:\Users\enriq\source\repos\inventario\Inventario\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\Storages\ListStoragesPage.razor.g.cs
+C:\Users\enriq\source\repos\inventario\Inventario\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\Storages\UpdateSotoragesPage.razor.g.cs
+C:\Users\enriq\source\repos\inventario\Inventario\obj\Debug\netcoreapp3.1\Razor\Components\Storages\CreateStoragesComponent.razor.g.cs
+C:\Users\enriq\source\repos\inventario\Inventario\obj\Debug\netcoreapp3.1\Razor\Components\Storages\ListStoragesComponent.razor.g.cs
+C:\Users\enriq\source\repos\inventario\Inventario\obj\Debug\netcoreapp3.1\Razor\Components\Storages\UpdateStoragesCoponent.razor.g.cs
+C:\Users\enriq\source\repos\inventario\Inventario\obj\Debug\netcoreapp3.1\Razor\Pages\Storages\CreateStoragesPage.razor.g.cs
+C:\Users\enriq\source\repos\inventario\Inventario\obj\Debug\netcoreapp3.1\Razor\Pages\Storages\ListStoragesPage.razor.g.cs
+C:\Users\enriq\source\repos\inventario\Inventario\obj\Debug\netcoreapp3.1\Razor\Pages\Storages\UpdateSotoragesPage.razor.g.cs

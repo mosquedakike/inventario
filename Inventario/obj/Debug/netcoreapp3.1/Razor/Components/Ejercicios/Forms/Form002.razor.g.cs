@@ -107,6 +107,13 @@ using Inventario.Components.Warehouses;
 #line default
 #line hidden
 #nullable disable
+#nullable restore
+#line 15 "C:\Users\enriq\source\repos\inventario\Inventario\_Imports.razor"
+using Inventario.Components.Storages;
+
+#line default
+#line hidden
+#nullable disable
     public partial class Form002 : Microsoft.AspNetCore.Components.ComponentBase
     {
         #pragma warning disable 1998

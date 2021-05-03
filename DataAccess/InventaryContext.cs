@@ -19,10 +19,10 @@ namespace DataAccess
             if (!option.IsConfigured)
             {
                 //GONET
-                //option.UseSqlServer("Server=DESKTOP-KNH5RLA; Database=InventoryDb; User Id=sa; Password=2115");
+                option.UseSqlServer("Server=DESKTOP-KNH5RLA; Database=InventoryDb; User Id=sa; Password=2115");
 
                 //NZXT
-                option.UseSqlServer("Server=DESKTOP-8BEJDCB; Database=InventoryDb; User Id=sa; Password=2115");
+                //option.UseSqlServer("Server=DESKTOP-8BEJDCB; Database=InventoryDb; User Id=sa; Password=2115");
             }
         }
 

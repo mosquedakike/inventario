@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "sTuKDxQcStmgN4xItcXaa7I/jUxrkqFS79EU/xBU/fVmYk1FVAVRMscXqIrF2HehZvfOwjYTXubon1bpmgfoCQ==",
+  "dgSpecHash": "6in9/9jKZNsMA/21eAHxQ0vudeCLbLREOhCwza77l9E1XUvzQXi4rqAmCY0dBBGxAWE9j6xLCftP9BNPklxa4g==",
   "success": true,
-  "projectFilePath": "C:\\Users\\enriq\\source\\repos\\inventario\\Inventario\\Inventario.csproj",
+  "projectFilePath": "C:\\Users\\enriq\\source\\repos\\Inventario\\Inventario\\Inventario.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\enriq\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.0\\microsoft.bcl.asyncinterfaces.1.1.0.nupkg.sha512",
     "C:\\Users\\enriq\\.nuget\\packages\\microsoft.bcl.hashcode\\1.1.0\\microsoft.bcl.hashcode.1.1.0.nupkg.sha512",

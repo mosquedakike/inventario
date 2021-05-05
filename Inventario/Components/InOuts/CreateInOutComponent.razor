@@ -10,12 +10,35 @@
         }
     </select>
 </div>
+<hr />
+<EditForm Model="oInOut">
+    <div class="form-group">
+        <InputSelect class="form-control" @bind-Value="oInOut.StorageId">
+            <option value="">Selecciona un producto</option>
+            @foreach (var storage in storages)
+            {
+                <option value="@storage.StorageId">@storage.Product.ProductName</option>
+            }
+        </InputSelect>
+    </div>
+    <div class="form-group">
+        <label>Cantidad</label>
+        <InputNumber class="form-control" @bind-Value="oInOut.Quantity"></InputNumber>
+    </div>
+    <div class="form-group">
+        <label>Esto es una entrada?</label>
+        <InputCheckbox class="form-control" @bind-Value="oInOut.IsInput"></InputCheckbox>
+    </div>
+    <input class="btn btn-primary" type="button" value="@buttonValue" @onclick="SaveInOut"/>
+</EditForm>
 
 @code {
     InputOutputEntity oInOut = new InputOutputEntity();
 
     List<WarehouseEntity> warehouses = new List<WarehouseEntity>();
     List<StorageEntity> storages = new List<StorageEntity>();
+
+    string buttonValue => oInOut.IsInput ? "Registrar Entrada" : "Registrar Salida";
 
     protected override async Task OnInitializedAsync()
     {
@@ -27,5 +50,10 @@
         var idWarehouse = e.Value.ToString();
 
         storages = B_Storage.StorageProductsByWarehouse(idWarehouse);
+    }
+
+    private void SaveInOut()
+    {
+
     }
 }

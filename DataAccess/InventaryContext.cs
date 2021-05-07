@@ -18,11 +18,14 @@ namespace DataAccess
         {
             if (!option.IsConfigured)
             {
+                //AZURE
+                option.UseSqlServer("Server=tcp:mosquedakikeserver.database.windows.net,1433;Initial Catalog=InventoryDb;Persist Security Info=False;User ID=mosquedakike;Password=ZusFvqYh6AXZgDi;MultipleActiveResultSets=False;Encrypt=True;TrustServerCertificate=False;Connection Timeout=30;");
+
                 //GONET
                 //option.UseSqlServer("Server=DESKTOP-KNH5RLA; Database=InventoryDb; User Id=sa; Password=2115");
 
                 //NZXT
-                option.UseSqlServer("Server=DESKTOP-8BEJDCB; Database=InventoryDb; User Id=sa; Password=2115");
+                //option.UseSqlServer("Server=DESKTOP-8BEJDCB; Database=InventoryDb; User Id=sa; Password=2115");
             }
         }
 
